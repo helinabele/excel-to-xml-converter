@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">excel-to-xml-converter</string>
+    <string name="title_activity_main">excel-to-xml-converter</string>
+    <string name="package_name">com.converter.app</string>
+    <string name="custom_url_scheme">com.converter.app</string>
+</resources>
