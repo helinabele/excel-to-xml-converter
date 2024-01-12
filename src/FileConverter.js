@@ -52,12 +52,6 @@ const FileConverter = () => {
     return (
         <div className="container">
             <h2 className="title">Excel to XML Converter</h2>
-            {/* <div className="file-input">
-                <input type="file" id="fileInput" onChange={handleFileChange} />
-                <label htmlFor="fileInput" className="file-label">
-                    Choose File
-                </label>
-            </div> */}
 
             <label htmlFor="fileInput" className="file-label">
                 <span className="file-label-text">Choose File</span>
